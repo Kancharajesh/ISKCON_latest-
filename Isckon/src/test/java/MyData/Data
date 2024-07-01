@@ -1,0 +1,32 @@
+//setup.
+
+
+
+
+Mobilenumber=6281674691
+Randommobilenumber=6785
+randomText=temp
+invalidMobilenumber=9878987
+mobilenumberscreen=Login to begin 💰
+
+//Location.
+Hyd=Hyderabad
+Mum=Mumbai
+kol=kolka
+
+inValidemail=qwerty
+invalidPincode=1234
+
+
+//login error messages.
+Mobilenumbererror=Please enter a valid phone number
+OTPError_message=Please enter a valid otp
+resentotp=OTP resent successfully
+
+
+pincodeerror=Please enter a valid pincode
+EmailError=Please enter a valid email
+
+onboardingwelcome=WELCOME
+referralerror=Please enter a valid code
+couponserror=Please select 2 coupons to continue
